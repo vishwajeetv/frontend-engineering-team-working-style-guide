@@ -200,7 +200,7 @@ This working style document is divided into multiple sub-domains that are essent
 
 4. ### People Management Practices
 
-   \[Disclaimer \- these notes only serve as a guideline for general people management practices in UI engineering. These are supposed to only complement the organizational practices. These are not supposed to create any conflict with engineering org’s and entire AgroStar org’s practices. In case of any such conflicts, the practices followed by the engineering team and eventually by general company org will override the guidelines written here.\]
+   \[Disclaimer \- AgroStar specific. Removed. \]
 
    1. When it comes to people management, a fairly self-organized, common-sense driven approach is recommended.
 
