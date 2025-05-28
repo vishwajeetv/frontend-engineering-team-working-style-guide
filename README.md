@@ -14,7 +14,7 @@ I have removed AgroStar specific parts from this document, so this can be useful
 
 This document is meant to be read and used by the members of the UI engineering team. This document acts as a “working guide” for the daily tasks and decision making, and exhaustively covers most of the important activities of the team.
 
-Generally, readers should refer to the “Outline” of the document (on the left) and/ or search for the topic of interest and look for the details as and when needed.
+Generally, readers should refer to the “Table of Contents” of the document (below Core Principles section) and/ or search for the topic of interest and look for the details as and when needed.
 
 ### Why is the UI Engineering Team built?
 
