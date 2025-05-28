@@ -2,7 +2,7 @@
 
 ### Context 
 
-This was originally created for frontend engineering team at AgroStar India.
+For the past 3.5 years, I am ([Vishwajeet Vatharkar](https://vishwajeetv.com)) working as an Engineering Manager for a small technology team (30 engineers) of a medium sized Agri-tech company based in Pune, India ([AgroStar). I have systematically built a team of 6 engineers from scratch, the "UI Engineering Team". The team is considered to be a high performance, successful and happy group, with 0 voluntary attrition, and good individual growth. Over the years I have learned a lot about team management, and have tried distilling my thoughts about team management into a "working style guide" for my team. Although this is something that was created for AgroStar, I believe many other engineering leaders can find this helpful as a framework for working style guide for their teams, hence I am sharing it here.
 
 Original context - "As the frontend engineering team at AgroStar continues building & scaling people, products, processes, it becomes essential to document the working style that has been driven mostly by intuition, common sense, and thought process by the Engineering Manager.  
 As we grow and aim towards building strong, independent individuals, it is important to document the philosophies and principles that guide simple day-to-day decision making.   
@@ -35,6 +35,52 @@ These are the foundations upon which this working style document is built.
 
 This working style document is divided into multiple sub-domains that are essential in day to day work of the UI Engineering team.
 
+## Table of Contents
+- [Solution Engineering Practices](#solution-engineering-practices)
+  - [Fundamental principles](#fundamental-principles)
+  - [Solution Design](#solution-design)
+  - [Coding Practices](#coding-practices)
+  - [Contract design](#contract-design)
+  - [Estimation](#estimation)
+  - [Developer Testing](#developer-testing)
+  - [Release Practices](#release-practices)
+    - [Versioning](#versioning)
+    - [Managing user behavior expectation](#managing-user-behavior-expectation)
+    - [Backward compatibility](#backward-compatibility)
+    - [Release monitoring](#release-monitoring)
+
+- [Task Allocation Practices](#task-allocation-practices)
+  - [The input variables](#the-input-variables)
+
+- [Engineering Quality Management Practices](#engineering-quality-management-practices)
+  - [Solution, Progress, Code Reviews](#reviews)
+  - [Stakeholder Experience](#stakeholder-experience)
+
+- [People Management Practices](#people-management-practices)
+  - [Trust](#trust)
+  - [Work timings](#work-timings)
+  - [Complimentary Offs](#complimentary-offs)
+  - [Leaves](#leaves)
+
+- [Performance Management & Appraisal Practices](#performance-management--appraisal-practices)
+  - [Performance & Compensation Review Process](#performance--compensation-review-process)
+  - [Promotions](#promotions)
+
+- [Team Building & Cohesion Practices](#team-building--cohesion-practices)
+  - [Celebrations](#celebrations)
+  - [Rewards & Recognitions](#rewards--recognitions)
+
+- [Team Hiring & Recruitment Practices](#team-hiring--recruitment-practices)
+
+- [Learning & Development](#learning--development)
+  - [Learning & Development Programs](#learning--development-programs)
+  - [Domains of Expertise](#domains-of-expertise)
+  - [Activities](#activities)
+    - [Engineering reader's club](#engineering-readers-club)
+    - [Public Speaking & Writing](#public-speaking--writing)
+    - [Mentorship](#mentorship)
+
+---
 1. ### Solution Engineering Practices
 
    1. #### Fundamental principles
@@ -178,10 +224,10 @@ This working style document is divided into multiple sub-domains that are essent
    6. There are standard formatting guidelines and practices for media and content. For example, currency formatting. It is expected that engineers will stick to these formatting practices (by using standard library functions). Also, engineers are expected to follow basic grammar standards for interfaces in the English language. For non-english languages, engineers can take help from copywriting teams.  
    7. The UX designs should be considered as a guideline towards the expected software. Typically in case of a direct to consumer product, the expectation would be to more closely match the design. However, iterations for simplification are acceptable. Overall, if the designs are not consistent with existing products, engineers are expected to revise it to make it consistent.
 
-   8. #### Solution/ Progress/ Code Reviews 
+   8. #### Reviews 
 
-      1. To improve the quality of the solution, a continuous solution review process is implemented and followed. Peers as well as group leads are expected to suggest improvements for the solution if and when needed. But the responsibility of getting it reviewed is on the individual not on the reviewer.  
-      2. Similarly, Code Reviews are implemented to improve the consistency, style, readability and maintainability of the code that is written to build the solution. Group leaders will publish guidelines for coding for the particular stack, which will serve as a baseline for the code review. Above and beyond the guidelines, pragmatic decisions based on past experiences to be incorporated into the reviews.  
+      1. To improve the quality of the solution, a continuous *Solution Review* process is implemented and followed. Peers as well as group leads are expected to suggest improvements for the solution if and when needed. But the responsibility of getting it reviewed is on the individual not on the reviewer.  
+      2. Similarly, *Code Reviews* are implemented to improve the consistency, style, readability and maintainability of the code that is written to build the solution. Group leaders will publish guidelines for coding for the particular stack, which will serve as a baseline for the code review. Above and beyond the guidelines, pragmatic decisions based on past experiences to be incorporated into the reviews.  
       3. Code reviews have these goals \-  
          1. Improving Quality of the codebase, including readability and maintainability.  
          2. Making it easy to onboard a new member to the coding style of the existing system.  
@@ -204,9 +250,9 @@ This working style document is divided into multiple sub-domains that are essent
 
    1. When it comes to people management, a fairly self-organized, common-sense driven approach is recommended.
 
-   2. #### **Trust** is the key factor 
+   2. #### Trust
 
-      1. It is assumed that everyone in the team is **working with the best intent.**  
+      1. Trust is the key factor. It is assumed that everyone in the team is **working with the best intent.**  
       2. Everyone is aligned towards common high level goals and values.  
       3. Further, **everyone** we work with, members of other functions, and stakeholders, will also **have the best intent** while working with you.  
       4. Essentially, trust is the basic assumption & foundations for the people management practices.  
@@ -285,14 +331,11 @@ This working style document is divided into multiple sub-domains that are essent
        2. In the case of celebrating specifically for an individual, it is a good idea to think about their individual preferences and choices to create a 7 star experience for them\!  
        3. Generally, based on the circumstances, the celebration will include the biggest possible group who is relevant for the celebration, however due to lack of availability (esp not being in Pune) leads to impacting the timeliness of celebrations, the general guideline is the celebration should still be held with at least “core” participants of the celebration. A larger event can always happen later.
 
-   11. #### (Org managed) Rewards & Recognitions
+   11. #### Rewards & Recognitions
 
-       1. Goal of RnR is to identify, encourage, and celebrate specific values as well as behavior that was demonstrated over the entire quarter by individuals, that sets it as a role-model behavior.  
-       2. Usually every quarter, different people will get nominated, in an attempt to diversify between people and groups, however nomination will happen only on the basis of exceptional performance or behavior.  
-       3. It tends to be skewed more towards younger engineers and newer team members, instead of the team/group leaders.  
-       4. Engineering manager should nominate individuals for org managed RnR based on these criterias and discuss the same with the Head of the department.
+       1. Removed details as it is too specific to AgroStar
 
-7. ### Team Hiring/ Recruitment Practices
+7. ### Team Hiring & Recruitment Practices
 
    1. Hiring is one of the core responsibilities of an Engineering Manager. *It is not the responsibility of just the recruiters*. Recruiters are there to Assist the engineering manager, not vice versa. Means EM must take the ownership of the process.  
    2. It is suggested that EM should write the job description that is being hired for.  
